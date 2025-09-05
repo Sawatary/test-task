@@ -15,11 +15,12 @@
 1. **Клонирование репозитория**
 ```bash
 git clone https://github.com/Sawatary/test-task.git
-cd testing-task
+cd test-task
 ```
 2. **Установка зависимостей**
-``bash
+```bash
 npm install
+```
 
 3. **Запуск сервера разработки**
 ```bash
