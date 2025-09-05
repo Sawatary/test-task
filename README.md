@@ -1,4 +1,5 @@
-# Loan Application - Test Task
+# Loan Application - Test Task 
+# Деплой приложения - https://test-task-ashy-sigma.vercel.app/personal
 
 Трёхэтапная форма заявки на кредит
 
